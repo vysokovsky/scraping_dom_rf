@@ -1,0 +1,1361 @@
+{
+  "regionsByFo": [
+    {
+      "federalDistrict": {
+        "foCd": 108,
+        "foShortDesc": "ДВ",
+        "foDesc": "Дальневосточный ФО",
+        "joinKey": 11
+      },
+      "regions": [
+        {
+          "regionCd": 28,
+          "regionNum": "28",
+          "regionShortDesc": "Амурская область",
+          "regionDesc": "Амурская область",
+          "foCd": 108,
+          "foShortDesc": "ДВ",
+          "foDesc": "Дальневосточный ФО",
+          "joinKey": 1101
+        },
+        {
+          "regionCd": 79,
+          "regionNum": "79",
+          "regionShortDesc": "Еврейская АО",
+          "regionDesc": "Еврейская Автономная область",
+          "foCd": 108,
+          "foShortDesc": "ДВ",
+          "foDesc": "Дальневосточный ФО",
+          "joinKey": 1102
+        },
+        {
+          "regionCd": 75,
+          "regionNum": "75",
+          "regionShortDesc": "Забайкальский край",
+          "regionDesc": "Забайкальский край",
+          "foCd": 108,
+          "foShortDesc": "ДВ",
+          "foDesc": "Дальневосточный ФО",
+          "joinKey": 1541
+        },
+        {
+          "regionCd": 41,
+          "regionNum": "41",
+          "regionShortDesc": "Камчатский край",
+          "regionDesc": "Камчатский край",
+          "foCd": 108,
+          "foShortDesc": "ДВ",
+          "foDesc": "Дальневосточный ФО",
+          "joinKey": 1103
+        },
+        {
+          "regionCd": 49,
+          "regionNum": "49",
+          "regionShortDesc": "Магаданская область",
+          "regionDesc": "Магаданская область",
+          "foCd": 108,
+          "foShortDesc": "ДВ",
+          "foDesc": "Дальневосточный ФО",
+          "joinKey": 1184
+        },
+        {
+          "regionCd": 25,
+          "regionNum": "25",
+          "regionShortDesc": "Приморский край",
+          "regionDesc": "Приморский край",
+          "foCd": 108,
+          "foShortDesc": "ДВ",
+          "foDesc": "Дальневосточный ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 3,
+          "regionNum": "03",
+          "regionShortDesc": "Республика Бурятия",
+          "regionDesc": "Бурятия Республика",
+          "foCd": 108,
+          "foShortDesc": "ДВ",
+          "foDesc": "Дальневосточный ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 14,
+          "regionNum": "14",
+          "regionShortDesc": "Республика Саха (Якутия)",
+          "regionDesc": "Саха (Якутия) Республика ",
+          "foCd": 108,
+          "foShortDesc": "ДВ",
+          "foDesc": "Дальневосточный ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 65,
+          "regionNum": "65",
+          "regionShortDesc": "Сахалинская область",
+          "regionDesc": "Сахалинская область",
+          "foCd": 108,
+          "foShortDesc": "ДВ",
+          "foDesc": "Дальневосточный ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 27,
+          "regionNum": "27",
+          "regionShortDesc": "Хабаровский край",
+          "regionDesc": "Хабаровский край",
+          "foCd": 108,
+          "foShortDesc": "ДВ",
+          "foDesc": "Дальневосточный ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 87,
+          "regionNum": "87",
+          "regionShortDesc": "Чукотский АО",
+          "regionDesc": "Чукотский Автономный округ",
+          "foCd": 108,
+          "foShortDesc": "ДВ",
+          "foDesc": "Дальневосточный ФО",
+          "joinKey": 0
+        }
+      ]
+    },
+    {
+      "federalDistrict": {
+        "foCd": 105,
+        "foShortDesc": "П",
+        "foDesc": "Приволжский ФО",
+        "joinKey": 0
+      },
+      "regions": [
+        {
+          "regionCd": 43,
+          "regionNum": "43",
+          "regionShortDesc": "Кировская область",
+          "regionDesc": "Кировская область",
+          "foCd": 105,
+          "foShortDesc": "П",
+          "foDesc": "Приволжский ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 52,
+          "regionNum": "52",
+          "regionShortDesc": "Нижегородская область",
+          "regionDesc": "Нижегородская область",
+          "foCd": 105,
+          "foShortDesc": "П",
+          "foDesc": "Приволжский ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 56,
+          "regionNum": "56",
+          "regionShortDesc": "Оренбургская область",
+          "regionDesc": "Оренбургская область",
+          "foCd": 105,
+          "foShortDesc": "П",
+          "foDesc": "Приволжский ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 58,
+          "regionNum": "58",
+          "regionShortDesc": "Пензенская область",
+          "regionDesc": "Пензенская область",
+          "foCd": 105,
+          "foShortDesc": "П",
+          "foDesc": "Приволжский ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 59,
+          "regionNum": "59",
+          "regionShortDesc": "Пермский край",
+          "regionDesc": "Пермский край",
+          "foCd": 105,
+          "foShortDesc": "П",
+          "foDesc": "Приволжский ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 2,
+          "regionNum": "02",
+          "regionShortDesc": "Республика Башкортостан",
+          "regionDesc": "Башкортостан Республика",
+          "foCd": 105,
+          "foShortDesc": "П",
+          "foDesc": "Приволжский ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 12,
+          "regionNum": "12",
+          "regionShortDesc": "Республика Марий Эл",
+          "regionDesc": "Марий Эл Республика",
+          "foCd": 105,
+          "foShortDesc": "П",
+          "foDesc": "Приволжский ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 13,
+          "regionNum": "13",
+          "regionShortDesc": "Республика Мордовия",
+          "regionDesc": "Мордовия Республика",
+          "foCd": 105,
+          "foShortDesc": "П",
+          "foDesc": "Приволжский ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 16,
+          "regionNum": "16",
+          "regionShortDesc": "Республика Татарстан",
+          "regionDesc": "Татарстан Республика",
+          "foCd": 105,
+          "foShortDesc": "П",
+          "foDesc": "Приволжский ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 63,
+          "regionNum": "63",
+          "regionShortDesc": "Самарская область",
+          "regionDesc": "Самарская область",
+          "foCd": 105,
+          "foShortDesc": "П",
+          "foDesc": "Приволжский ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 64,
+          "regionNum": "64",
+          "regionShortDesc": "Саратовская область",
+          "regionDesc": "Саратовская область",
+          "foCd": 105,
+          "foShortDesc": "П",
+          "foDesc": "Приволжский ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 18,
+          "regionNum": "18",
+          "regionShortDesc": "Удмуртская Республика",
+          "regionDesc": "Удмуртская Республика",
+          "foCd": 105,
+          "foShortDesc": "П",
+          "foDesc": "Приволжский ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 73,
+          "regionNum": "73",
+          "regionShortDesc": "Ульяновская область",
+          "regionDesc": "Ульяновская область",
+          "foCd": 105,
+          "foShortDesc": "П",
+          "foDesc": "Приволжский ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 21,
+          "regionNum": "21",
+          "regionShortDesc": "Чувашская Республика",
+          "regionDesc": "Чувашская Республика",
+          "foCd": 105,
+          "foShortDesc": "П",
+          "foDesc": "Приволжский ФО",
+          "joinKey": 0
+        }
+      ]
+    },
+    {
+      "federalDistrict": {
+        "foCd": 102,
+        "foShortDesc": "СЗ",
+        "foDesc": "Северо-Западный ФО",
+        "joinKey": 0
+      },
+      "regions": [
+        {
+          "regionCd": 29,
+          "regionNum": "29",
+          "regionShortDesc": "Архангельская область",
+          "regionDesc": "Архангельская область",
+          "foCd": 102,
+          "foShortDesc": "СЗ",
+          "foDesc": "Северо-Западный ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 35,
+          "regionNum": "35",
+          "regionShortDesc": "Вологодская область",
+          "regionDesc": "Вологодская область",
+          "foCd": 102,
+          "foShortDesc": "СЗ",
+          "foDesc": "Северо-Западный ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 78,
+          "regionNum": "78",
+          "regionShortDesc": "Город Санкт-Петербург",
+          "regionDesc": "Санкт-Петербург город",
+          "foCd": 102,
+          "foShortDesc": "СЗ",
+          "foDesc": "Северо-Западный ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 39,
+          "regionNum": "39",
+          "regionShortDesc": "Калининградская область",
+          "regionDesc": "Калининградская область",
+          "foCd": 102,
+          "foShortDesc": "СЗ",
+          "foDesc": "Северо-Западный ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 47,
+          "regionNum": "47",
+          "regionShortDesc": "Ленинградская область",
+          "regionDesc": "Ленинградская область",
+          "foCd": 102,
+          "foShortDesc": "СЗ",
+          "foDesc": "Северо-Западный ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 51,
+          "regionNum": "51",
+          "regionShortDesc": "Мурманская область",
+          "regionDesc": "Мурманская область",
+          "foCd": 102,
+          "foShortDesc": "СЗ",
+          "foDesc": "Северо-Западный ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 83,
+          "regionNum": "83",
+          "regionShortDesc": "Ненецкий АО",
+          "regionDesc": "Ненецкий Автономный округ",
+          "foCd": 102,
+          "foShortDesc": "СЗ",
+          "foDesc": "Северо-Западный ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 53,
+          "regionNum": "53",
+          "regionShortDesc": "Новгородская область",
+          "regionDesc": "Новгородская область",
+          "foCd": 102,
+          "foShortDesc": "СЗ",
+          "foDesc": "Северо-Западный ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 60,
+          "regionNum": "60",
+          "regionShortDesc": "Псковская область",
+          "regionDesc": "Псковская область",
+          "foCd": 102,
+          "foShortDesc": "СЗ",
+          "foDesc": "Северо-Западный ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 10,
+          "regionNum": "10",
+          "regionShortDesc": "Республика Карелия",
+          "regionDesc": "Карелия Республика",
+          "foCd": 102,
+          "foShortDesc": "СЗ",
+          "foDesc": "Северо-Западный ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 11,
+          "regionNum": "11",
+          "regionShortDesc": "Республика Коми",
+          "regionDesc": "Коми Республика",
+          "foCd": 102,
+          "foShortDesc": "СЗ",
+          "foDesc": "Северо-Западный ФО",
+          "joinKey": 0
+        }
+      ]
+    },
+    {
+      "federalDistrict": {
+        "foCd": 104,
+        "foShortDesc": "СК",
+        "foDesc": "Северо-Кавказский ФО",
+        "joinKey": 0
+      },
+      "regions": [
+        {
+          "regionCd": 7,
+          "regionNum": "07",
+          "regionShortDesc": "Кабардино-Балкарская Республика",
+          "regionDesc": "Кабардино-Балкарская Республика",
+          "foCd": 104,
+          "foShortDesc": "СК",
+          "foDesc": "Северо-Кавказский ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 9,
+          "regionNum": "09",
+          "regionShortDesc": "Карачаево-Черкесская Республика",
+          "regionDesc": "Карачаево-Черкесская Республика",
+          "foCd": 104,
+          "foShortDesc": "СК",
+          "foDesc": "Северо-Кавказский ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 5,
+          "regionNum": "05",
+          "regionShortDesc": "Республика Дагестан",
+          "regionDesc": "Дагестан Республика",
+          "foCd": 104,
+          "foShortDesc": "СК",
+          "foDesc": "Северо-Кавказский ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 6,
+          "regionNum": "06",
+          "regionShortDesc": "Республика Ингушетия",
+          "regionDesc": "Ингушетия Республика",
+          "foCd": 104,
+          "foShortDesc": "СК",
+          "foDesc": "Северо-Кавказский ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 15,
+          "regionNum": "15",
+          "regionShortDesc": "Республика Северная Осетия",
+          "regionDesc": "Северная Осетия - Алания Республика",
+          "foCd": 104,
+          "foShortDesc": "СК",
+          "foDesc": "Северо-Кавказский ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 26,
+          "regionNum": "26",
+          "regionShortDesc": "Ставропольский край",
+          "regionDesc": "Ставропольский край",
+          "foCd": 104,
+          "foShortDesc": "СК",
+          "foDesc": "Северо-Кавказский ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 20,
+          "regionNum": "20",
+          "regionShortDesc": "Чеченская Республика",
+          "regionDesc": "Чеченская Республика",
+          "foCd": 104,
+          "foShortDesc": "СК",
+          "foDesc": "Северо-Кавказский ФО",
+          "joinKey": 0
+        }
+      ]
+    },
+    {
+      "federalDistrict": {
+        "foCd": 107,
+        "foShortDesc": "С",
+        "foDesc": "Сибирский ФО",
+        "joinKey": 0
+      },
+      "regions": [
+        {
+          "regionCd": 22,
+          "regionNum": "22",
+          "regionShortDesc": "Алтайский край",
+          "regionDesc": "Алтайский край",
+          "foCd": 107,
+          "foShortDesc": "С",
+          "foDesc": "Сибирский ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 38,
+          "regionNum": "38",
+          "regionShortDesc": "Иркутская область",
+          "regionDesc": "Иркутская область",
+          "foCd": 107,
+          "foShortDesc": "С",
+          "foDesc": "Сибирский ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 42,
+          "regionNum": "42",
+          "regionShortDesc": "Кемеровская область - Кузбасс",
+          "regionDesc": "Кемеровская область - Кузбасс",
+          "foCd": 107,
+          "foShortDesc": "С",
+          "foDesc": "Сибирский ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 24,
+          "regionNum": "24",
+          "regionShortDesc": "Красноярский край",
+          "regionDesc": "Красноярский край",
+          "foCd": 107,
+          "foShortDesc": "С",
+          "foDesc": "Сибирский ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 54,
+          "regionNum": "54",
+          "regionShortDesc": "Новосибирская область",
+          "regionDesc": "Новосибирская область",
+          "foCd": 107,
+          "foShortDesc": "С",
+          "foDesc": "Сибирский ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 55,
+          "regionNum": "55",
+          "regionShortDesc": "Омская область",
+          "regionDesc": "Омская область",
+          "foCd": 107,
+          "foShortDesc": "С",
+          "foDesc": "Сибирский ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 4,
+          "regionNum": "04",
+          "regionShortDesc": "Республика Алтай",
+          "regionDesc": "Алтай Республика",
+          "foCd": 107,
+          "foShortDesc": "С",
+          "foDesc": "Сибирский ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 17,
+          "regionNum": "17",
+          "regionShortDesc": "Республика Тыва",
+          "regionDesc": "Тыва Республика",
+          "foCd": 107,
+          "foShortDesc": "С",
+          "foDesc": "Сибирский ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 19,
+          "regionNum": "19",
+          "regionShortDesc": "Республика Хакасия",
+          "regionDesc": "Хакасия Республика",
+          "foCd": 107,
+          "foShortDesc": "С",
+          "foDesc": "Сибирский ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 70,
+          "regionNum": "70",
+          "regionShortDesc": "Томская область",
+          "regionDesc": "Томская область",
+          "foCd": 107,
+          "foShortDesc": "С",
+          "foDesc": "Сибирский ФО",
+          "joinKey": 0
+        }
+      ]
+    },
+    {
+      "federalDistrict": {
+        "foCd": 106,
+        "foShortDesc": "У",
+        "foDesc": "Уральский ФО",
+        "joinKey": 0
+      },
+      "regions": [
+        {
+          "regionCd": 45,
+          "regionNum": "45",
+          "regionShortDesc": "Курганская область",
+          "regionDesc": "Курганская область",
+          "foCd": 106,
+          "foShortDesc": "У",
+          "foDesc": "Уральский ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 66,
+          "regionNum": "66",
+          "regionShortDesc": "Свердловская область",
+          "regionDesc": "Свердловская область",
+          "foCd": 106,
+          "foShortDesc": "У",
+          "foDesc": "Уральский ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 72,
+          "regionNum": "72",
+          "regionShortDesc": "Тюменская область",
+          "regionDesc": "Тюменская область",
+          "foCd": 106,
+          "foShortDesc": "У",
+          "foDesc": "Уральский ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 86,
+          "regionNum": "86",
+          "regionShortDesc": "Ханты-Мансийский АО - Югра",
+          "regionDesc": "Ханты-Мансийский АО - Югра",
+          "foCd": 106,
+          "foShortDesc": "У",
+          "foDesc": "Уральский ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 74,
+          "regionNum": "74",
+          "regionShortDesc": "Челябинская область",
+          "regionDesc": "Челябинская область",
+          "foCd": 106,
+          "foShortDesc": "У",
+          "foDesc": "Уральский ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 89,
+          "regionNum": "89",
+          "regionShortDesc": "Ямало-Ненецкий АО",
+          "regionDesc": "Ямало-Ненецкий Автономный округ",
+          "foCd": 106,
+          "foShortDesc": "У",
+          "foDesc": "Уральский ФО",
+          "joinKey": 0
+        }
+      ]
+    },
+    {
+      "federalDistrict": {
+        "foCd": 101,
+        "foShortDesc": "Ц",
+        "foDesc": "Центральный ФО",
+        "joinKey": 0
+      },
+      "regions": [
+        {
+          "regionCd": 31,
+          "regionNum": "31",
+          "regionShortDesc": "Белгородская область",
+          "regionDesc": "Белгородская область",
+          "foCd": 101,
+          "foShortDesc": "Ц",
+          "foDesc": "Центральный ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 32,
+          "regionNum": "32",
+          "regionShortDesc": "Брянская область",
+          "regionDesc": "Брянская область",
+          "foCd": 101,
+          "foShortDesc": "Ц",
+          "foDesc": "Центральный ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 33,
+          "regionNum": "33",
+          "regionShortDesc": "Владимирская область",
+          "regionDesc": "Владимирская область",
+          "foCd": 101,
+          "foShortDesc": "Ц",
+          "foDesc": "Центральный ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 36,
+          "regionNum": "36",
+          "regionShortDesc": "Воронежская область",
+          "regionDesc": "Воронежская область",
+          "foCd": 101,
+          "foShortDesc": "Ц",
+          "foDesc": "Центральный ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 77,
+          "regionNum": "77",
+          "regionShortDesc": "Город Москва",
+          "regionDesc": "Москва город",
+          "foCd": 101,
+          "foShortDesc": "Ц",
+          "foDesc": "Центральный ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 37,
+          "regionNum": "37",
+          "regionShortDesc": "Ивановская область",
+          "regionDesc": "Ивановская область",
+          "foCd": 101,
+          "foShortDesc": "Ц",
+          "foDesc": "Центральный ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 40,
+          "regionNum": "40",
+          "regionShortDesc": "Калужская область",
+          "regionDesc": "Калужская область",
+          "foCd": 101,
+          "foShortDesc": "Ц",
+          "foDesc": "Центральный ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 44,
+          "regionNum": "44",
+          "regionShortDesc": "Костромская область",
+          "regionDesc": "Костромская область",
+          "foCd": 101,
+          "foShortDesc": "Ц",
+          "foDesc": "Центральный ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 46,
+          "regionNum": "46",
+          "regionShortDesc": "Курская область",
+          "regionDesc": "Курская область",
+          "foCd": 101,
+          "foShortDesc": "Ц",
+          "foDesc": "Центральный ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 48,
+          "regionNum": "48",
+          "regionShortDesc": "Липецкая область",
+          "regionDesc": "Липецкая область",
+          "foCd": 101,
+          "foShortDesc": "Ц",
+          "foDesc": "Центральный ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 50,
+          "regionNum": "50",
+          "regionShortDesc": "Московская область",
+          "regionDesc": "Московская область",
+          "foCd": 101,
+          "foShortDesc": "Ц",
+          "foDesc": "Центральный ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 57,
+          "regionNum": "57",
+          "regionShortDesc": "Орловская область",
+          "regionDesc": "Орловская область",
+          "foCd": 101,
+          "foShortDesc": "Ц",
+          "foDesc": "Центральный ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 62,
+          "regionNum": "62",
+          "regionShortDesc": "Рязанская область",
+          "regionDesc": "Рязанская область",
+          "foCd": 101,
+          "foShortDesc": "Ц",
+          "foDesc": "Центральный ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 67,
+          "regionNum": "67",
+          "regionShortDesc": "Смоленская область",
+          "regionDesc": "Смоленская область",
+          "foCd": 101,
+          "foShortDesc": "Ц",
+          "foDesc": "Центральный ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 68,
+          "regionNum": "68",
+          "regionShortDesc": "Тамбовская область",
+          "regionDesc": "Тамбовская область",
+          "foCd": 101,
+          "foShortDesc": "Ц",
+          "foDesc": "Центральный ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 69,
+          "regionNum": "69",
+          "regionShortDesc": "Тверская область",
+          "regionDesc": "Тверская область",
+          "foCd": 101,
+          "foShortDesc": "Ц",
+          "foDesc": "Центральный ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 71,
+          "regionNum": "71",
+          "regionShortDesc": "Тульская область",
+          "regionDesc": "Тульская область",
+          "foCd": 101,
+          "foShortDesc": "Ц",
+          "foDesc": "Центральный ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 76,
+          "regionNum": "76",
+          "regionShortDesc": "Ярославская область",
+          "regionDesc": "Ярославская область",
+          "foCd": 101,
+          "foShortDesc": "Ц",
+          "foDesc": "Центральный ФО",
+          "joinKey": 0
+        }
+      ]
+    },
+    {
+      "federalDistrict": {
+        "foCd": 103,
+        "foShortDesc": "ЮГ",
+        "foDesc": "Южный ФО",
+        "joinKey": 0
+      },
+      "regions": [
+        {
+          "regionCd": 30,
+          "regionNum": "30",
+          "regionShortDesc": "Астраханская область",
+          "regionDesc": "Астраханская область",
+          "foCd": 103,
+          "foShortDesc": "ЮГ",
+          "foDesc": "Южный ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 34,
+          "regionNum": "34",
+          "regionShortDesc": "Волгоградская область",
+          "regionDesc": "Волгоградская область",
+          "foCd": 103,
+          "foShortDesc": "ЮГ",
+          "foDesc": "Южный ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 92,
+          "regionNum": "92",
+          "regionShortDesc": "Город Севастополь",
+          "regionDesc": "Севастополь город",
+          "foCd": 103,
+          "foShortDesc": "ЮГ",
+          "foDesc": "Южный ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 23,
+          "regionNum": "23",
+          "regionShortDesc": "Краснодарский край",
+          "regionDesc": "Краснодарский край",
+          "foCd": 103,
+          "foShortDesc": "ЮГ",
+          "foDesc": "Южный ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 1,
+          "regionNum": "01",
+          "regionShortDesc": "Республика Адыгея",
+          "regionDesc": "Адыгея Республика",
+          "foCd": 103,
+          "foShortDesc": "ЮГ",
+          "foDesc": "Южный ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 8,
+          "regionNum": "08",
+          "regionShortDesc": "Республика Калмыкия",
+          "regionDesc": "Калмыкия Республика",
+          "foCd": 103,
+          "foShortDesc": "ЮГ",
+          "foDesc": "Южный ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 91,
+          "regionNum": "91",
+          "regionShortDesc": "Республика Крым",
+          "regionDesc": "Крым Республика",
+          "foCd": 103,
+          "foShortDesc": "ЮГ",
+          "foDesc": "Южный ФО",
+          "joinKey": 0
+        },
+        {
+          "regionCd": 61,
+          "regionNum": "61",
+          "regionShortDesc": "Ростовская область",
+          "regionDesc": "Ростовская область",
+          "foCd": 103,
+          "foShortDesc": "ЮГ",
+          "foDesc": "Южный ФО",
+          "joinKey": 0
+        }
+      ]
+    }
+  ],
+  "foByRegions": {
+    "1": {
+      "foCd": 103,
+      "foShortDesc": "ЮГ",
+      "foDesc": "Южный ФО"
+    },
+    "2": {
+      "foCd": 105,
+      "foShortDesc": "П",
+      "foDesc": "Приволжский ФО"
+    },
+    "3": {
+      "foCd": 108,
+      "foShortDesc": "ДВ",
+      "foDesc": "Дальневосточный ФО"
+    },
+    "4": {
+      "foCd": 107,
+      "foShortDesc": "С",
+      "foDesc": "Сибирский ФО"
+    },
+    "5": {
+      "foCd": 104,
+      "foShortDesc": "СК",
+      "foDesc": "Северо-Кавказский ФО"
+    },
+    "6": {
+      "foCd": 104,
+      "foShortDesc": "СК",
+      "foDesc": "Северо-Кавказский ФО"
+    },
+    "7": {
+      "foCd": 104,
+      "foShortDesc": "СК",
+      "foDesc": "Северо-Кавказский ФО"
+    },
+    "8": {
+      "foCd": 103,
+      "foShortDesc": "ЮГ",
+      "foDesc": "Южный ФО"
+    },
+    "9": {
+      "foCd": 104,
+      "foShortDesc": "СК",
+      "foDesc": "Северо-Кавказский ФО"
+    },
+    "10": {
+      "foCd": 102,
+      "foShortDesc": "СЗ",
+      "foDesc": "Северо-Западный ФО"
+    },
+    "11": {
+      "foCd": 102,
+      "foShortDesc": "СЗ",
+      "foDesc": "Северо-Западный ФО"
+    },
+    "12": {
+      "foCd": 105,
+      "foShortDesc": "П",
+      "foDesc": "Приволжский ФО"
+    },
+    "13": {
+      "foCd": 105,
+      "foShortDesc": "П",
+      "foDesc": "Приволжский ФО"
+    },
+    "14": {
+      "foCd": 108,
+      "foShortDesc": "ДВ",
+      "foDesc": "Дальневосточный ФО"
+    },
+    "15": {
+      "foCd": 104,
+      "foShortDesc": "СК",
+      "foDesc": "Северо-Кавказский ФО"
+    },
+    "16": {
+      "foCd": 105,
+      "foShortDesc": "П",
+      "foDesc": "Приволжский ФО"
+    },
+    "17": {
+      "foCd": 107,
+      "foShortDesc": "С",
+      "foDesc": "Сибирский ФО"
+    },
+    "18": {
+      "foCd": 105,
+      "foShortDesc": "П",
+      "foDesc": "Приволжский ФО"
+    },
+    "19": {
+      "foCd": 107,
+      "foShortDesc": "С",
+      "foDesc": "Сибирский ФО"
+    },
+    "20": {
+      "foCd": 104,
+      "foShortDesc": "СК",
+      "foDesc": "Северо-Кавказский ФО"
+    },
+    "21": {
+      "foCd": 105,
+      "foShortDesc": "П",
+      "foDesc": "Приволжский ФО"
+    },
+    "22": {
+      "foCd": 107,
+      "foShortDesc": "С",
+      "foDesc": "Сибирский ФО"
+    },
+    "23": {
+      "foCd": 103,
+      "foShortDesc": "ЮГ",
+      "foDesc": "Южный ФО"
+    },
+    "24": {
+      "foCd": 107,
+      "foShortDesc": "С",
+      "foDesc": "Сибирский ФО"
+    },
+    "25": {
+      "foCd": 108,
+      "foShortDesc": "ДВ",
+      "foDesc": "Дальневосточный ФО"
+    },
+    "26": {
+      "foCd": 104,
+      "foShortDesc": "СК",
+      "foDesc": "Северо-Кавказский ФО"
+    },
+    "27": {
+      "foCd": 108,
+      "foShortDesc": "ДВ",
+      "foDesc": "Дальневосточный ФО"
+    },
+    "28": {
+      "foCd": 108,
+      "foShortDesc": "ДВ",
+      "foDesc": "Дальневосточный ФО"
+    },
+    "29": {
+      "foCd": 102,
+      "foShortDesc": "СЗ",
+      "foDesc": "Северо-Западный ФО"
+    },
+    "30": {
+      "foCd": 103,
+      "foShortDesc": "ЮГ",
+      "foDesc": "Южный ФО"
+    },
+    "31": {
+      "foCd": 101,
+      "foShortDesc": "Ц",
+      "foDesc": "Центральный ФО"
+    },
+    "32": {
+      "foCd": 101,
+      "foShortDesc": "Ц",
+      "foDesc": "Центральный ФО"
+    },
+    "33": {
+      "foCd": 101,
+      "foShortDesc": "Ц",
+      "foDesc": "Центральный ФО"
+    },
+    "34": {
+      "foCd": 103,
+      "foShortDesc": "ЮГ",
+      "foDesc": "Южный ФО"
+    },
+    "35": {
+      "foCd": 102,
+      "foShortDesc": "СЗ",
+      "foDesc": "Северо-Западный ФО"
+    },
+    "36": {
+      "foCd": 101,
+      "foShortDesc": "Ц",
+      "foDesc": "Центральный ФО"
+    },
+    "37": {
+      "foCd": 101,
+      "foShortDesc": "Ц",
+      "foDesc": "Центральный ФО"
+    },
+    "38": {
+      "foCd": 107,
+      "foShortDesc": "С",
+      "foDesc": "Сибирский ФО"
+    },
+    "39": {
+      "foCd": 102,
+      "foShortDesc": "СЗ",
+      "foDesc": "Северо-Западный ФО"
+    },
+    "40": {
+      "foCd": 101,
+      "foShortDesc": "Ц",
+      "foDesc": "Центральный ФО"
+    },
+    "41": {
+      "foCd": 108,
+      "foShortDesc": "ДВ",
+      "foDesc": "Дальневосточный ФО"
+    },
+    "42": {
+      "foCd": 107,
+      "foShortDesc": "С",
+      "foDesc": "Сибирский ФО"
+    },
+    "43": {
+      "foCd": 105,
+      "foShortDesc": "П",
+      "foDesc": "Приволжский ФО"
+    },
+    "44": {
+      "foCd": 101,
+      "foShortDesc": "Ц",
+      "foDesc": "Центральный ФО"
+    },
+    "45": {
+      "foCd": 106,
+      "foShortDesc": "У",
+      "foDesc": "Уральский ФО"
+    },
+    "46": {
+      "foCd": 101,
+      "foShortDesc": "Ц",
+      "foDesc": "Центральный ФО"
+    },
+    "47": {
+      "foCd": 102,
+      "foShortDesc": "СЗ",
+      "foDesc": "Северо-Западный ФО"
+    },
+    "48": {
+      "foCd": 101,
+      "foShortDesc": "Ц",
+      "foDesc": "Центральный ФО"
+    },
+    "49": {
+      "foCd": 108,
+      "foShortDesc": "ДВ",
+      "foDesc": "Дальневосточный ФО"
+    },
+    "50": {
+      "foCd": 101,
+      "foShortDesc": "Ц",
+      "foDesc": "Центральный ФО"
+    },
+    "51": {
+      "foCd": 102,
+      "foShortDesc": "СЗ",
+      "foDesc": "Северо-Западный ФО"
+    },
+    "52": {
+      "foCd": 105,
+      "foShortDesc": "П",
+      "foDesc": "Приволжский ФО"
+    },
+    "53": {
+      "foCd": 102,
+      "foShortDesc": "СЗ",
+      "foDesc": "Северо-Западный ФО"
+    },
+    "54": {
+      "foCd": 107,
+      "foShortDesc": "С",
+      "foDesc": "Сибирский ФО"
+    },
+    "55": {
+      "foCd": 107,
+      "foShortDesc": "С",
+      "foDesc": "Сибирский ФО"
+    },
+    "56": {
+      "foCd": 105,
+      "foShortDesc": "П",
+      "foDesc": "Приволжский ФО"
+    },
+    "57": {
+      "foCd": 101,
+      "foShortDesc": "Ц",
+      "foDesc": "Центральный ФО"
+    },
+    "58": {
+      "foCd": 105,
+      "foShortDesc": "П",
+      "foDesc": "Приволжский ФО"
+    },
+    "59": {
+      "foCd": 105,
+      "foShortDesc": "П",
+      "foDesc": "Приволжский ФО"
+    },
+    "60": {
+      "foCd": 102,
+      "foShortDesc": "СЗ",
+      "foDesc": "Северо-Западный ФО"
+    },
+    "61": {
+      "foCd": 103,
+      "foShortDesc": "ЮГ",
+      "foDesc": "Южный ФО"
+    },
+    "62": {
+      "foCd": 101,
+      "foShortDesc": "Ц",
+      "foDesc": "Центральный ФО"
+    },
+    "63": {
+      "foCd": 105,
+      "foShortDesc": "П",
+      "foDesc": "Приволжский ФО"
+    },
+    "64": {
+      "foCd": 105,
+      "foShortDesc": "П",
+      "foDesc": "Приволжский ФО"
+    },
+    "65": {
+      "foCd": 108,
+      "foShortDesc": "ДВ",
+      "foDesc": "Дальневосточный ФО"
+    },
+    "66": {
+      "foCd": 106,
+      "foShortDesc": "У",
+      "foDesc": "Уральский ФО"
+    },
+    "67": {
+      "foCd": 101,
+      "foShortDesc": "Ц",
+      "foDesc": "Центральный ФО"
+    },
+    "68": {
+      "foCd": 101,
+      "foShortDesc": "Ц",
+      "foDesc": "Центральный ФО"
+    },
+    "69": {
+      "foCd": 101,
+      "foShortDesc": "Ц",
+      "foDesc": "Центральный ФО"
+    },
+    "70": {
+      "foCd": 107,
+      "foShortDesc": "С",
+      "foDesc": "Сибирский ФО"
+    },
+    "71": {
+      "foCd": 101,
+      "foShortDesc": "Ц",
+      "foDesc": "Центральный ФО"
+    },
+    "72": {
+      "foCd": 106,
+      "foShortDesc": "У",
+      "foDesc": "Уральский ФО"
+    },
+    "73": {
+      "foCd": 105,
+      "foShortDesc": "П",
+      "foDesc": "Приволжский ФО"
+    },
+    "74": {
+      "foCd": 106,
+      "foShortDesc": "У",
+      "foDesc": "Уральский ФО"
+    },
+    "75": {
+      "foCd": 108,
+      "foShortDesc": "ДВ",
+      "foDesc": "Дальневосточный ФО"
+    },
+    "76": {
+      "foCd": 101,
+      "foShortDesc": "Ц",
+      "foDesc": "Центральный ФО"
+    },
+    "77": {
+      "foCd": 101,
+      "foShortDesc": "Ц",
+      "foDesc": "Центральный ФО"
+    },
+    "78": {
+      "foCd": 102,
+      "foShortDesc": "СЗ",
+      "foDesc": "Северо-Западный ФО"
+    },
+    "79": {
+      "foCd": 108,
+      "foShortDesc": "ДВ",
+      "foDesc": "Дальневосточный ФО"
+    },
+    "83": {
+      "foCd": 102,
+      "foShortDesc": "СЗ",
+      "foDesc": "Северо-Западный ФО"
+    },
+    "86": {
+      "foCd": 106,
+      "foShortDesc": "У",
+      "foDesc": "Уральский ФО"
+    },
+    "87": {
+      "foCd": 108,
+      "foShortDesc": "ДВ",
+      "foDesc": "Дальневосточный ФО"
+    },
+    "89": {
+      "foCd": 106,
+      "foShortDesc": "У",
+      "foDesc": "Уральский ФО"
+    },
+    "91": {
+      "foCd": 103,
+      "foShortDesc": "ЮГ",
+      "foDesc": "Южный ФО"
+    },
+    "92": {
+      "foCd": 103,
+      "foShortDesc": "ЮГ",
+      "foDesc": "Южный ФО"
+    }
+  }
+}
